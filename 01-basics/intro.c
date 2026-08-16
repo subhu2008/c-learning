@@ -2,7 +2,7 @@
 
 int main(void) // There is absolutely no way i wrote "viod" instead of "void" cuz of this crap keyboard, anyways corrected it after reviewing this code again //
 {
-    printf("Yo me subhu2008, and unemployed guy but still learning\n");
+    printf("Yo me subhu2008, an unemployed guy but still learning\n");
     printf("Just hoping i can learn C under less time cuz why not\n");
     printf("I just wanted to learn C randomly from scratch cuz of stuffs i have been doing lately, else there is absolutely no point of knowing stuffs without understanding the foundations\n");
     printf("If i never know the foundation, it would be just be nothing but a larp even if you do have some basic understanding\n");

@@ -17,7 +17,7 @@ This repository contains exercises, experiments, notes, and small projects as I 
 
 📚 Learning Path
 
-- [ ] Basics
+- [x] Basics
 - [ ] Variables and data types
 - [ ] Operators
 - [ ] Conditionals
