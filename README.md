@@ -33,19 +33,21 @@ This repository contains exercises, experiments, notes, and small projects as I 
 - [ ] Linux system programming
 - [ ] Kernel-oriented C
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-01-basics/        Syntax, variables, operators
-02-control-flow/  Conditionals and loops
-03-functions/     Functions and scope
-04-arrays/        Arrays
-05-pointers/      Pointers
-06-strings/       Strings
-07-structs/       Structs
-08-memory/        Dynamic memory
-09-file-io/       File handling
-10-linux/         Linux system programming
-11-kernel/        Kernel experiments
+| Directory | Topics |
+|---|---|
+| `01-basics/` | Syntax, variables, operators |
+| `02-control-flow/` | Conditionals and loops |
+| `03-functions/` | Functions and scope |
+| `04-arrays/` | Arrays |
+| `05-pointers/` | Pointers |
+| `06-strings/` | Strings |
+| `07-structs/` | Structs |
+| `08-memory/` | Dynamic memory |
+| `09-file-io/` | File handling |
+| `10-linux/` | Linux system programming |
+| `11-kernel/` | Kernel experiments |
 
 🧪 Philosophy
 
